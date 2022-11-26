@@ -10,8 +10,7 @@ import pe.edu.coworkers.reviewservice.domain.model.model.Publication;
 import pe.edu.coworkers.reviewservice.domain.persistence.ReviewRepository;
 import pe.edu.coworkers.reviewservice.domain.service.ReviewService;
 
-import java.util.Date;
-import java.util.List;
+import java.util.*;
 
 @SpringBootTest
 public class ReviewRepositoryMockTest {
